@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question points="1" timer="60">
+    <body>Назовите год, когда произошло такое событие, как Карибский кризис:</body>
+    <answers>
+      <answer>1971</answer>
+      <right_answer>1964</right_answer>
+      <answer>1961</answer>
+      <answer>1968</answer>
+    </answers>
+  </question>
+  <question points="1" timer="60">
+    <body>Сколько бит в истинно черном цвете по RGB?</body>
+    <answers>
+      <answer>1</answer>
+      <answer>4</answer>
+      <right_answer>0</right_answer>
+      <answer>2</answer>
+    </answers>
+  </question>
+  <question points="3" timer="60">
+    <body>В каком году появилась школа Хороший программист?</body>
+    <answers>
+      <answer>2012</answer>
+      <right_answer>2014</right_answer>
+      <answer>2010</answer>
+      <answer>2016</answer>
+    </answers>
+  </question>
+  <question points="1" timer="60">
+    <body>Знаете, сколько планет в солнечной системе?</body>
+    <answers>
+      <right_answer>8</right_answer>
+      <answer>9</answer>
+      <answer>7</answer>
+      <answer>10</answer>
+    </answers>
+  </question>
+  <question points="3" timer="60">
+    <body>Решите пример: (2+2)*2^(2+2/2)</body>
+    <answers>
+      <answer>64</answer>
+      <right_answer>32</right_answer>
+      <answer>216</answer>
+      <answer>16</answer>
+    </answers>
+  </question>
+  <question points="1" timer="60">
+    <body>Не глядя, сколько пальцев у тебя на руке?</body>
+    <answers>
+      <answer>4</answer>
+      <right_answer>5</right_answer>
+      <answer>6</answer>
+      <answer>3</answer>
+    </answers>
+  </question>
+  <question points="1" timer="60">
+    <body>Ммм, диаметр круга мишени радиусом 15см в сантиметрах?</body>
+    <answers>
+      <answer>15</answer>
+      <right_answer>30</right_answer>
+      <answer>22</answer>
+      <answer>45</answer>
+    </answers>
+  </question>
+  <question points="3" timer="60">
+    <body>16ГБ - это сколько в МБ?</body>
+    <answers>
+      <answer>16 000</answer>
+      <right_answer>16 384</right_answer>
+      <answer>16 777 216</answer>
+      <answer>16 000 000</answer>
+    </answers>
+  </question>
+</questions>
